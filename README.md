@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Pjaxon999. This is where I have been dumping a lot of my project files. Hopefully by doing so I can create a sense of progress as I continue to learn new things!
-- 🌱 I’m currently learning: Web Development generally, in particular JS at the moment.
-- 📫 How to reach me: Pjaxondesigns@gmail.com
+- 🌱 I’m currently learning: Javascript in a web development context.
+- 📫 How to reach me: Nosebleed143@gmail.com
 - 😄 Pronouns: He/Him
